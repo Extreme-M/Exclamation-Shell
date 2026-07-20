@@ -10,9 +10,6 @@ std::string version = "0.0.2 -alpha tokenized build";
 void credits() {
     std::cout << "made by Extreme-M" << std::endl;
     std::cout << "made for PointOS project" << std::endl;
-    std::cout << "Manipur do not belong to Kuki!!" << std::endl;
-    std::cout << "Kuki refugee leave Manipur!!";
-    std::cout << "God forbid formation of Kukiland" << std::endl;
 }
 void cmd () {
     printf("switching to cmd");
